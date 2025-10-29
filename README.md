@@ -36,15 +36,3 @@
 - 💠 **Digital Reflection** — 将逻辑与美学合一的数字映射  
 
 ---
-
-## ⚙️ Usage
-
-```bash
-# 克隆仓库
-git clone https://github.com/your-username/Aurora.git
-
-# 进入目录
-cd Aurora
-
-# 拉取更新
-git pull origin main
