@@ -1,34 +1,50 @@
+<div align="center">
+
+# 🌌 **Aurora**
+
+<img src="https://img.shields.io/badge/license-Private-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/status-Active-00bcd4?style=flat-square" />
+<img src="https://img.shields.io/badge/language-Mixed-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/maintainer-Master-9370DB?style=flat-square" />
+<img src="https://img.shields.io/badge/build-Passing-brightgreen?style=flat-square" />
 
 ---
 
-### 🌸 优雅诗意版（更适合你风格）
+### *A mirror of light, a reflection of self.*
 
-```markdown
-# 🌌 Aurora
+> “如极光般流动的光，是我与代码的倒影。”
 
-> *A mirror of light, a reflection of self.*
+</div>
+
+---
+
+## 💡 About
 
 **Aurora** 是 Master 的专属镜像。  
-它不只是代码的副本，更是思维与灵感的投影。
+它不仅是代码的复刻，更是我数字世界的光之延伸。  
+
+这里存放了个人项目的镜像、系统配置、脚本与归档，  
+用于构建一个 **可复现、可追溯、纯净且自洽** 的技术空间。
 
 ---
 
-### 💎 About
-Aurora serves as my personal mirror repository —  
-a space to archive, synchronize, and preserve the essence of my digital works.
+## 🧭 Purpose
 
-每一次 commit，都是极光闪烁的痕迹。  
-每一次 push，都是光影的延续。
-
----
-
-### 🕊 Features
-- Mirror of my personal projects and environments  
-- Lightweight, elegant, and self-contained  
-- Designed for reflection — not replication  
+- 🪞 **Private Mirror** — 个人项目与配置的镜像与同步  
+- 🧩 **Environment Backup** — 系统环境与脚本的版本化备份  
+- 🕊️ **Lightweight Archive** — 精简、自持、独立的归档空间  
+- 💠 **Digital Reflection** — 将逻辑与美学合一的数字映射  
 
 ---
 
-### 🧭 Usage
+## ⚙️ Usage
+
 ```bash
+# 克隆仓库
 git clone https://github.com/your-username/Aurora.git
+
+# 进入目录
+cd Aurora
+
+# 拉取更新
+git pull origin main
